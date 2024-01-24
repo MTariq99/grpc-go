@@ -5,7 +5,7 @@ package greet;
 option go_package="grpcgo/greet/proto";
 
 message GreetRequest{
-    string first_name=1;
+    string FirstName=1;
 }
 
 message GreetResponse{
